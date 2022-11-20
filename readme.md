@@ -18,5 +18,7 @@ Unityの適当な場所にEditorフォルダを作ってその下に入れたら
 ## How to use
 
 1. 上のツールバー→Tools→Open Inspector Material Transfer Windowでwindowを開きます。
-2. sourceにコピー元のSkinnedMeshRendererを、Destinationにコピー先のSkinnedMeshRendererを入れてCopy!ボタンを押すと、コピー元のマテリアルリストがコピー先にもセットされます。
+2. sizeのところにコピーするSkinnedMeshRendererの数を入力します。
+3. sourceにコピー元のSkinnedMeshRendererを、Destinationにコピー先のSkinnedMeshRendererを入れます。
+4. Copy!ボタンを押すと、コピー元のマテリアルリストがコピー先にもセットされます。
 
