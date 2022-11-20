@@ -11,7 +11,7 @@ SkinnedMeshRendererのマテリアルのリストを別のSkinnedMeshRendererに
 
 
 ## Install
-適当な場所にEditorフォルダを作ってその下に入れたら動きます
+Unityの適当な場所にEditorフォルダを作ってその下に入れたら動きます
 
 試してないのでわからないですが、もしかしたらフォルダに入れなくても動くかもです。
 
